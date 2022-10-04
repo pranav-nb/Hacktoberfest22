@@ -14,4 +14,3 @@ print(f"Compressed size: {os.stat(file_out).st_size}")
 with bz2.open(file_out, "rb") as fin:
     data = fin.read()
     print(f"Decompressed size: {sys.getsizeof(data)}")
-
