@@ -4,3 +4,4 @@ This Repo for Hacktoberfest22
 2.Clone it  
 3.Make your changes  
 4.Submit a Pull Request PR  
+Donot forget to add your names in CONTRIBUTING.md  
