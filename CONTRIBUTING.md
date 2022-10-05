@@ -1,5 +1,5 @@
 Abhilash Hegde    
 AdityaSubrahmanyaBhat  
 VadirajKranam  
-Palak Khandelwal
+Palak Khandelwal  
 N Pranav Bhat
