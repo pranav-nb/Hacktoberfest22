@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+    <h1>Home</h1>
+    <a href="/logout">Logout</a>
+    <label for="input">Search by tag Name : </label>
+    <input placeholder="tag" id="input" onkeyup="myFunction()">
+   <form action="/new" method="get">
+       <button>Add new note</button>
+   </form>
+    <% for(let i=0;i<allNotes.length;i++){ %>
+        <div id="<%=i%>" class="divs">
+            <h3>Note  <%=i+1%></h3>
+            <ul>
+                <li>Heding :  <%= allNotes[i].heading %> </li>
+                <li>Tags : 
+                    <ul>
+                    <% for(let j=0;j<allNotes[i].tags.length;j++){ %> 
+                        <li id="tags<%=i%><%=j%>" class="tags">
+                         #<%=allNotes[i].tags[j]%> 
+                        </li>
+                    <% } %> 
+                </ul>
+                </li>
+                <li>Content :  <%= allNotes[i].content %> </li>
+            </ul>
+            <form action="/edit/<%= allNotes[i]._id%>" method="get">
+                <button>Edit</button>
+            </form>
+            <form action="/delete/<%=allNotes[i]._id%>?_method=DELETE" method="post">
+                <button>Delete</button>
+            </form>
+        </div>
+  
+        <% } %> 
+</body>
+<script>
+    function myFunction()
+    {
+        let li=document.querySelectorAll('.tags')
+        let input=document.querySelector('#input')
+        let filter=input.value.toLowerCase()
+        let txtVal
+        
+        for(let i=0;i<li.length;i++)
+        {
+             txtVal=li[i].textContent
+             if ((txtVal.toLowerCase().indexOf(filter))>-1) {
+              let divIndex= li[i].id[4]
+              let divs=document.querySelectorAll('.divs')
+              for(let j=0;j<divs.length;j++)
+              {
+                if(divs[j].id==divIndex)
+                {
+                    divs[j].style.display='block'
+                }
+                else{
+                    divs[j].style.display='none'
+                }
+              }
+        } 
+        if(filter=='')
+        {
+            let divs=document.querySelectorAll('.divs')
+            for(let i=0;i<divs.length;i++)
+            {
+                divs[i].style.display='block'
+            }
+        }
+        }
+    }
+</script>
+</html>
