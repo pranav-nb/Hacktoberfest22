@@ -1,4 +1,4 @@
 Abhilash Hegde    
 AdityaSubrahmanyaBhat  
-VadirajKranam
+VadirajKranam  
 Palak Khandelwal
