@@ -23,3 +23,5 @@ Yash Kashyap
 Yash Indane
 
 Giovanni Kurniawan
+
+- [Kuldeep singh](https://github.com/Kdsingh333)
