@@ -2,23 +2,24 @@
 
 Abhilash Hegde
 
-AdityaSubrahmanyaBhat  
+AdityaSubrahmanyaBhat
 
-VadirajKranam  
+VadirajKranam
 
-Palak Khandelwal  
+Palak Khandelwal
 
-N Pranav Bhat  
+N Pranav Bhat
 
 Pradyoth P
 
-Eduardo Machado  
+Eduardo Machado
 
-Varghese Babu  
+Varghese Babu
 
-AdeepKrishnaKeelar  
+AdeepKrishnaKeelar
 
-Yash Kashyap  
+Yash Kashyap
 
-Yash Indane  
+Yash Indane
 
+Giovanni Kurniawan
