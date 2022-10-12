@@ -47,3 +47,5 @@ Shrivardhan Patil
 Saurabh Kumar Kaushal
 
 Uzair Hussain
+
+Deepitha M C
