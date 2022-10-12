@@ -40,6 +40,9 @@ Rohit Raj P
 
 Navaneeth S
 
-Maithri B
+Maithri B  
+
+Shrivardhan Patil  
 
 Saurabh Kumar Kaushal
+
