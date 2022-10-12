@@ -20,11 +20,11 @@ AdeepKrishnaKeelar
 
 Yash Kashyap
 
-Yash Indane  
+Yash Indane
 
-Manish Prajapati  
+Manish Prajapati
 
-Giovanni Kurniawan    
+Giovanni Kurniawan
 
 Kuldeep singh
 
@@ -35,14 +35,19 @@ Manu M B
 Shwetha Srikanth
 
 Goutham Gowda A D
- 
-Rohit Raj P 
+
+Rohit Raj P
 
 Navaneeth S
 
-Maithri B  
+Maithri B
 
-Shrivardhan Patil  
+Shrivardhan Patil
 
-Saurabh Kumar Kaushal
+Saurabh Kumar Kaushal  
 
+Deepitha M C  
+
+Romit Dasgupta    
+
+Uzair Hussain  
