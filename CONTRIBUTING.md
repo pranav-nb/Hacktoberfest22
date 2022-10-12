@@ -44,8 +44,10 @@ Maithri B
 
 Shrivardhan Patil
 
-Saurabh Kumar Kaushal
+Saurabh Kumar Kaushal  
 
-Romit Dasgupta  
+Deepitha M C  
+
+Romit Dasgupta    
 
 Uzair Hussain  
