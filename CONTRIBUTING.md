@@ -8,6 +8,8 @@ VadirajKranam
 
 Palak Khandelwal
 
+Ricktho Sarkar
+
 N Pranav Bhat
 
 Pradyoth P
