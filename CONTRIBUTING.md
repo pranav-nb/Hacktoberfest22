@@ -34,8 +34,6 @@ Shreyas DA
 
 Manu M B
 
-Shweta Laha
-
 Shwetha Srikanth
 
 Goutham Gowda A D
@@ -61,3 +59,5 @@ Uzair Hussain
 Gajanan Bhat
 
 Atul yadav
+
+Shweta Laha
