@@ -8,3 +8,6 @@ Donot forget to add your names in CONTRIBUTING.md
 The PRs will be reviewed and accepted between 15:00 to 21:00 HRS IST.  
 Make useful and responsible additions for the better interest of the repo.  
 If creating a new directory make sure to add a readme.md without fail
+
+Name - Arunika Bhattacharya
+GitHubid - Arunika22
